@@ -1,4 +1,7 @@
-## Hi there 👋
+## Languages I have used:
+ Js,HTML,CSS,Java,SQL,R
+ ## Languages I'm actually confident(debatable) in
+ JS,HTML,CSS,Java,SQL
 
 <!--
 **skyhigh636/skyhigh636** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
