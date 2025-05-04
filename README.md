@@ -6,7 +6,7 @@ Current 2nd Year CSSE student in Maynooth University, I'm a slow burner to be ho
  ## Languages I'm actually confident(debatable) in
  JS,HTML,CSS,Java,SQL
  
-##I’m currently working on
+## I’m currently working on
  Your only choice is hustle 
 
  
