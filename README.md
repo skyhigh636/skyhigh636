@@ -7,5 +7,4 @@ Remaking skybot with Discord gateways instead of a webhook approach
 SDL3 game engine titled, X3.
 Passively devloping a game in Godot.
 
- 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21bdzpmy2sdc6tebvzihjx5xq&cover_image=true&theme=default&show_offline=false&background_color=ebe350&interchange=false&bar_color=d279f4)](https://github.com/kittinan/spotify-github-profile)
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001088.51408be2ff964aa6bf6d8fcb531cbac2.1139)](https://music-profile.rayriffy.com)
