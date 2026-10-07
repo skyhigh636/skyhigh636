@@ -12,6 +12,7 @@ I enjoy working on projects where I can combine software development, testing, p
 💻 C / C++
 🎯 C#
 🗄️ SQL
+LUA
 # Frameworks & Technologies
 ⚛️ React
 🟢 Node.js
